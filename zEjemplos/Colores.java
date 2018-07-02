@@ -11,6 +11,6 @@ public class Colores {
     System.out.print(naranja + " saltamontes" + rojo + " tomate");
     System.out.print(blanco + " sábanas" + azul + " cielo");
     System.out.print(morado + " nazareno" + azul + " mar");
-    System.out.print(blanco);
+    System.out.print(blanco + "\n");
   }
 }
