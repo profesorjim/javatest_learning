@@ -3,7 +3,7 @@ import java.text.DecimalFormat;
 import java.util.Locale;
 import java.text.DecimalFormatSymbols;
 
-public class Ejercicio012 {
+public class Ejercicio12 {
   public static void main (String[] args) {
     double pesoNota1 = 40;
     double pesoNota2 = 60;
